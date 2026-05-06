@@ -63,6 +63,15 @@ article {
   transition: 0.2s;
 }
 
+article img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+}
+
 article:hover {
   transform: translateY(-3px);
 }
