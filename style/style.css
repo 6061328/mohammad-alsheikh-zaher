@@ -26,7 +26,7 @@ header a:hover {
 }
 
 header img {
-  width: 280px;
+  width: 220px;
   border-radius: 50%;
   margin-top: 10px;
 }
@@ -65,7 +65,7 @@ article {
 
 article img {
   width: 100%;
-  max-width: 500px;
+  max-width: 350px;
   border-radius: 10px;
   margin-top: 10px;
   margin-bottom: 10px;
